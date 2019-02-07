@@ -1,18 +1,56 @@
-<?xml version="1.0"?>
-<!ELEMENT CatalogoPeliculas (Pelicula+) >
-<!ELEMENT Pelicula (Ttitulo+, Duracion?, Genero?, Actores?, FechaDeEstreno?, Fecha?, Director*, Productor?, 
-Productora?, Formato?, CalificacionPorEdades?) >
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CatalogoPeliculas SYSTEM "Documento .DTD">
 
-<!ELEMENT Titulo (#PCDATA) >
-<!ELEMENT Duracion (#PCDATA) >
-<!ELEMENT Genero (#PCDATA) >
-<!ELEMENT Actores (Actor*) >
-<!ELEMENT Actor (#PCDATA) >
-<!ELEMENT Actriz (#PCDATA) >
-<!ELEMENT Fecha (#PCDATA) >
-<!ELEMENT FechaDeEstreno (#PCDATA) >
-<!ELEMENT Director (#PCDATA) >
-<!ELEMENT Productor (#PCDATA) >
-<!ELEMENT Productora (#PCDATA) >
-<!ELEMENT Formato (#PCDATA) >
-<!ELEMENT CalificacionPorEdades (#PCDATA) >
+<CatalogoPeliculas>
+    <Pelicula>
+         <Titulo>Mi abuela</Titulo>
+         <Duracion>136</Duracion>
+         <Genero>Drama</Genero>
+         <Actores>
+             <Actor>Lolo Lolailo</Actor>
+             <Actriz>Lola Lailole</Actriz>
+             <Actor>Jose Man</Actor>
+         </Actores>
+         <FechaDeEstreno>1998</FechaDeEstreno>
+         <Fecha>2000</Fecha>
+         <Director>Florentino Jose</Director>
+         <Productor>Pablo Luis</Productor>
+         <Productora>CeroFilms</Productora>
+         <Formato>DVD</Formato>
+         <CalificacionPorEdades>+16</CalificacionPorEdades>
+     </Pelicula>
+     <Pelicula>
+         <Titulo>Muerte</Titulo>
+         <Duracion>136</Duracion>
+         <Genero>Comedia</Genero>
+         <Actores>
+             <Actor>Felipe Omas</Actor>
+             <Actriz>Julia Omenos</Actriz>
+             <Actor>Juan Ar</Actor>
+         </Actores>
+         <FechaDeEstreno>1998</FechaDeEstreno>
+         <Fecha>1998</Fecha>
+         <Director>Fernando Diaz</Director>
+         <Productor>Pedro Juan</Productor>
+         <Productora>Diogenes</Productora>
+         <Formato>VHS</Formato>
+         <CalificacionPorEdades>+16</CalificacionPorEdades>
+      </Pelicula>
+      <Pelicula>
+         <Titulo>En lo alto de lo bajo</Titulo>
+         <Duracion>136</Duracion>
+         <Genero>Aventuras</Genero>
+         <Actores>
+             <Actor>Fungencio Ocasi</Actor>
+             <Actriz>Ermenegilda Perez </Actriz>
+             <Actor>Juan Arco</Actor>
+         </Actores>
+         <FechaDeEstreno>1998</FechaDeEstreno>
+         <Fecha>1982</Fecha>
+         <Director>Gabriel Jose</Director>
+         <Productor>Julian Muñoz</Productor>
+         <Productora>Diagrama Films</Productora>
+         <Formato>LaserDisc</Formato>
+         <CalificacionPorEdades>+16</CalificacionPorEdades>
+      </Pelicula>
+</CatalogoPeliculas>
