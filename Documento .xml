@@ -15,7 +15,7 @@
          <Productor>Pablo Luis</Productor>
          <Productora>CeroFilms</Productora>
          <Formato>DVD</Formato>
-         <CalificaciónPorEdades>+16</CalificacionPoredades>
+         <CalificacionPorEdades>+16</CalificacionPoredades>
      </Pelicula>
      <Pelicula>
          <Titulo>Muerte</Titulo>
@@ -32,7 +32,7 @@
          <Productor>Pedro Juan</Productor>
          <Productora>Diogenes</Productora>
          <Formato>VHS</Formato>
-         <CalificaciónPorEdades>+16</CalificacionPoredades>
+         <CalificacionPorEdades>+16</CalificacionPoredades>
       </Pelicula>
       <Pelicula>
          <Titulo>En lo alto de lo bajo</Titulo>
@@ -49,6 +49,6 @@
          <Productor>Julian Muñoz</Productor>
          <Productora>Diagrama Films</Productora>
          <Formato>LaserDisc</Formato>
-         <CalificaciónPorEdades>+16</CalificacionPoredades>
+         <CalificacionPorEdades>+16</CalificacionPoredades>
       </Pelicula>
 </CataogoPeliculas>
