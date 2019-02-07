@@ -9,11 +9,13 @@
              <Actriz>Lola Lailole</Actriz>
              <Actor>Jose Man</Actor>
          </Actores>
+         <Fecha de estreno>1998</Fecha de Estreno>
          <Fecha>2000</Fecha>
          <Director>Florentino Jose</Director>
          <Productor>Pablo Luis</Productor>
          <Productora>CeroFilms</Productora>
          <Formato>DVD</Formato>
+         <CalificaciónPorEdades>+16</CalificacionPoredades>
      </Pelicula>
      <Pelicula>
          <Titulo>Muerte</Titulo>
@@ -24,11 +26,13 @@
              <Actriz>Julia Omenos</Actriz>
              <Actor>Juan Ar</Actor>
          </Actores>
+         <Fecha de estreno>1998</Fecha de Estreno>
          <Fecha>1998</Fecha>
          <Director>Fernando Diaz</Director>
          <Productor>Pedro Juan</Productor>
          <Productora>Diogenes</Productora>
          <Formato>VHS</Formato>
+         <CalificaciónPorEdades>+16</CalificacionPoredades>
       </Pelicula>
       <Pelicula>
          <Titulo>En lo alto de lo bajo</Titulo>
@@ -39,10 +43,12 @@
              <Actriz>Ermenegilda Perez </Actriz>
              <Actriz>Juana Arco</Actor>
          </Actores>
+         <Fecha de estreno>1998</Fecha de Estreno>
          <Fecha>1982</Fecha>
          <Director>Gabriel Jose</Director>
          <Productor>Julian Muñoz</Productor>
          <Productora>Diagrama Films</Productora>
          <Formato>LaserDisc</Formato>
+         <CalificaciónPorEdades>+16</CalificacionPoredades>
       </Pelicula>
 </CataogoPeliculas>
