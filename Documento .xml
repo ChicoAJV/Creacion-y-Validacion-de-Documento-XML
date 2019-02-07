@@ -9,7 +9,7 @@
              <Actriz>Lola Lailole</Actriz>
              <Actor>Jose Man</Actor>
          </Actores>
-         <FechaDeEstreno>1998</Fecha de Estreno>
+         <FechaDeEstreno>1998</FechaDeEstreno>
          <Fecha>2000</Fecha>
          <Director>Florentino Jose</Director>
          <Productor>Pablo Luis</Productor>
@@ -26,7 +26,7 @@
              <Actriz>Julia Omenos</Actriz>
              <Actor>Juan Ar</Actor>
          </Actores>
-         <FechaDeEstreno>1998</Fecha de Estreno>
+         <FechaDeEstreno>1998</FechaDeEstreno>
          <Fecha>1998</Fecha>
          <Director>Fernando Diaz</Director>
          <Productor>Pedro Juan</Productor>
@@ -43,7 +43,7 @@
              <Actriz>Ermenegilda Perez </Actriz>
              <Actriz>Juana Arco</Actor>
          </Actores>
-         <FechaDeEstreno>1998</Fecha de Estreno>
+         <FechaDeEstreno>1998</FechaDeEstreno>
          <Fecha>1982</Fecha>
          <Director>Gabriel Jose</Director>
          <Productor>Julian Muñoz</Productor>
