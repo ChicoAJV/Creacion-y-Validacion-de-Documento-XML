@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<CatalogoPeliculas>
+    <Pelicula>
+         <Titulo>Mi abuela</Titulo>
+         <Duracion>136</Duracion>
+         <Genero>Drama</Genero>
+         <Actores>
+             <Actor>Lolo Lolailo</Actor>
+             <Actriz>Lola Lailole</Actriz>
+             <Actor>Jose Man</Actor>
+         </Actores>
+         <Fecha>2000</Fecha>
+         <Director>Florentino Jose</Director>
+         <Productor>Pablo Luis</Productor>
+         <Productora>CeroFilms</Productora>
+         <Formato>DVD</Formato>
+     </Pelicula>
+     <Pelicula>
+         <Titulo>Muerte</Titulo>
+         <Duracion>136</Duracion>
+         <Genero>Comedia</Genero>
+         <Actores>
+             <Actor>Felipe Omas</Actor>
+             <Actriz>Julia Omenos</Actriz>
+             <Actor>Juan Ar</Actor>
+         </Actores>
+         <Fecha>1998</Fecha>
+         <Director>Fernando Diaz</Director>
+         <Productor>Pedro Juan</Productor>
+         <Productora>Diogenes</Productora>
+         <Formato>VHS</Formato>
+      </Pelicula>
+      <Pelicula>
+         <Titulo>En lo alto de lo bajo</Titulo>
+         <Duracion>136</Duracion>
+         <Genero>Aventuras</Genero>
+         <Actores>
+             <Actor>Fungencio Ocasi</Actor>
+             <Actriz>Ermenegilda Perez </Actriz>
+             <Actriz>Juana Arco</Actor>
+         </Actores>
+         <Fecha>1982</Fecha>
+         <Director>Gabriel Jose</Director>
+         <Productor>Julian Muñoz</Productor>
+         <Productora>Diagrama Films</Productora>
+         <Formato>LaserDisc</Formato>
+      </Pelicula>
+</CataogoPeliculas>
