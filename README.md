@@ -13,7 +13,7 @@ Document .dtd que correspongui a l'XML anterior. L'XML validarà respecte d'aque
 Esquema .xsd corresponent a l'XML. El document XML validarà respecte d'aquest esquema.
 
 ### Validació
-![Validacion] 
+ (https://github.com/ChicoAJV/Creacion-y-Validacion-de-Documento-XML/blob/master/NOvalidado.png)
 
 ### Referencia de la taula de dades: Me la he inventado.
 
