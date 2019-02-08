@@ -5,11 +5,7 @@
          <Titulo>Mi abuela</Titulo>
          <Duracion>136</Duracion>
          <Genero>Drama</Genero>
-         <Actores>
-             <Actor>Lolo Lolailo</Actor>
-             <Actriz>Lola Lailole</Actriz>
-             <Actor>Jose Man</Actor>
-         </Actores>
+         <Actores>Lolo Lolailo, Lola Lailole, Jose Man</Actores>
          <FechaDeEstreno>1998</FechaDeEstreno>
          <Fecha>2000</Fecha>
          <Director>Florentino Jose</Director>
@@ -22,11 +18,7 @@
          <Titulo>Muerte</Titulo>
          <Duracion>136</Duracion>
          <Genero>Comedia</Genero>
-         <Actores>
-             <Actor>Felipe Omas</Actor>
-             <Actriz>Julia Omenos</Actriz>
-             <Actor>Juan Ar</Actor>
-         </Actores>
+         <Actores>Felipe Omas, Julia Omenos, Juan Ar</Actores>        
          <FechaDeEstreno>1998</FechaDeEstreno>
          <Fecha>1998</Fecha>
          <Director>Fernando Diaz</Director>
@@ -39,13 +31,9 @@
          <Titulo>En lo alto de lo bajo</Titulo>
          <Duracion>136</Duracion>
          <Genero>Aventuras</Genero>
-         <Actores>
-             <Actor>Fungencio Ocasi</Actor>
-             <Actriz>Ermenegilda Perez </Actriz>
-             <Actor>Juan Arco</Actor>
-         </Actores>
-         <FechaDeEstreno>1998</FechaDeEstreno>
-         <Fecha>1982</Fecha>
+         <Actores>Fungencio Ocasi, Ermenegilda Perez, Juan Arco</Actores>                    
+         <FechaDeEstreno>1982</FechaDeEstreno>
+         <Fecha>1984</Fecha>
          <Director>Gabriel Jose</Director>
          <Productor>Julian Muñoz</Productor>
          <Productora>Diagrama Films</Productora>
@@ -53,3 +41,4 @@
          <CalificacionPorEdades>+16</CalificacionPorEdades>
       </Pelicula>
 </CatalogoPeliculas>
+
