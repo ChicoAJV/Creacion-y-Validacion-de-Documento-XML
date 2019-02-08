@@ -18,3 +18,5 @@ Esquema .xsd corresponent a l'XML. El document XML validarà respecte d'aquest e
 ### Referencia de la taula de dades: Me la he inventado.
 
 Publicau els vostres documents .xml, .dtd i .xsd a un repositori a github i indicau al readme.md la font d'on heu extret les dades. Lliurau la URL del vostre repositori.
+
+No entiendo el error que me da en la NO validación, he probado mil cosas, me han ayudado compañeros pero nada.
