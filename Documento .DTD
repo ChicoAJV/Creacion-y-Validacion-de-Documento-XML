@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!ELEMENT CatalogoPeliculas (Pelicula*) >
-<!ELEMENT Pelicula (Titulo, Duracion, Genero, Actores+, FechaDeEstreno, Fecha, Director, Productor?, 
-Productora, Formato, CalificacionPorEdades) >
+<!ELEMENT CatalogoPeliculas (Pelicula*)>
+<!ELEMENT Pelicula (Titulo, Duracion, Genero, Actores+, FechaDeEstreno, Fecha, Director, Productor, 
+Productora, Formato, CalificacionPorEdades)>
 
 <!ELEMENT Titulo (#PCDATA)>
 <!ELEMENT Duracion (#PCDATA)>
 <!ELEMENT Genero (#PCDATA)>
 <!ELEMENT Actores (#PCDATA)>
-<!ELEMENT Fecha (#PCDATA)>
 <!ELEMENT FechaDeEstreno (#PCDATA)>
+<!ELEMENT Fecha (#PCDATA)>
 <!ELEMENT Director (#PCDATA)>
 <!ELEMENT Productor (#PCDATA)>
 <!ELEMENT Productora (#PCDATA)>
 <!ELEMENT Formato (#PCDATA)>
 <!ELEMENT CalificacionPorEdades (#PCDATA)>
 
-<!ELEMENT  tag (#PCDATA)>
-<!ATTLIST tag  attribute CDATA #REQUIRED>
 
