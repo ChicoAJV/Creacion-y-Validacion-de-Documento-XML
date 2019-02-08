@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<!DOCTYPE CatalogoPeliculas SYSTEM "CatalogoPeliculas.dtd">
+
 <CatalogoPeliculas>
     <Pelicula>
          <Titulo>Mi abuela</Titulo>
@@ -41,4 +43,3 @@
          <CalificacionPorEdades>+16</CalificacionPorEdades>
       </Pelicula>
 </CatalogoPeliculas>
-
